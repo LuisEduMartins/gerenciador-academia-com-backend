@@ -48,7 +48,7 @@ Aqui estão algumas telas da aplicação em funcionamento:
 ![Print exercicio adicionado](./Prints_funcionamento/Screenshot_10.png)
 *Membro adicionado*
 
-![Print edição do instrutor](./Prints_funcionamento/Screenshot_13.png")
+![Print edição do instrutor](./Prints_funcionamento/Screenshot_13.png)
 *Agora vamos editar o instrutor*
 
 ![Print intrutoor editado](./Prints_funcionamento/Screenshot_14.png)
