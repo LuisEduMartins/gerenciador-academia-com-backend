@@ -62,3 +62,5 @@ Aqui estão algumas telas da aplicação em funcionamento:
 ![Print instrutor apagado](./Prints_funcionamento/Screenshot_10.png)
 *instrutor apagado*
 
+*OBS: Não sei como por isso em print, mas mesmo atualizando a página os dados não somem, o que indica que eles estão persistindo
+
