@@ -30,7 +30,7 @@ Aqui estão algumas telas da aplicação em funcionamento:
 ![Print adição do plano](./Prints_funcionamento/Screenshot_5.png)
 *Agora vamos adicionar um plano*
 
-![Print plano adicionado](./Prints_funcionamento/Screenshot_6.png")
+![Print plano adicionado](./Prints_funcionamento/Screenshot_6.png)
 ![Print plano adicionado](./Prints_funcionamento/Screenshot_7.png)
 *Plano adicionado*
 
